@@ -1,9 +1,10 @@
 package test01;
 
-public class Price2 implements Price {
+public class Price3 implements Price {
 
 	@Override
 	public double getCharge() {
-		return 2;
+		return 3;
 	}
+
 }
